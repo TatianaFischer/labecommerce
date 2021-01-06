@@ -70,6 +70,6 @@ To install the dependencies and start the project, you can use NPM:
 ---
 
 <h4 align="center">
-  Bye, Bye 👋️
+  Thanks, Bye, Bye 👋️💙
 </h4>
 
