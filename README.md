@@ -45,7 +45,7 @@ To copy the project, use the commands:
 
 ```bash
   # Clone the repository
-  ❯ git clone https://github.com/TatianaFischer/Labephoto-Frontend.git
+  ❯ git clone https://github.com/TatianaFischer/labecommerce
 
   # Enter directory
   ❯ cd Labephoto-Frontend
