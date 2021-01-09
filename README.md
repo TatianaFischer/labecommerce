@@ -4,7 +4,7 @@
 # Indice
 
 - :rocket: [About](#rocket-sobre-o-projeto)
-- 👨‍💻️ [Tools](#%EF%B8%8F-tecnogias-utilizadas)
+- 👨‍💻️ [Technologies](#%EF%B8%8F-tecnogias-utilizadas)
 - 📦️ [How to contribute?](#%EF%B8%8F-como-utilizar-o-projeto)
 
 
@@ -22,13 +22,13 @@ Project developed during the bootcamp of [LABENU](https://www.labenu.com.br/) in
 
 ---
 
-## 👨‍💻️ Tools
+## 👨‍💻️ Technologies
 
 The project was developed using these technologies::
 
 - [ReactJS](https://reactjs.org/)
 
-### Dependências
+
 
 - :nail_care: [Styled Components](https://styled-components.com/)
 
